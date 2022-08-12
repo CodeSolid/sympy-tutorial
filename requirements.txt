@@ -1,0 +1,5 @@
+# requirements.txt
+# Install using pip -r requirements.txt
+jupyterlab==3.3.2
+sympy==1.10.1
+matplotlib=3.5.2
